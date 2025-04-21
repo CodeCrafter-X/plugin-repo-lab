@@ -1,5 +1,4 @@
-
-  module.exports.run = () => {
-    return "Change from main branch";
+module.exports.run = () => {
+    return "Final merged version from both branches";
   };
   
