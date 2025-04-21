@@ -1,0 +1,10 @@
+Index: 21CIS0003_Ishan R.M
+
+1. What is a repository-based system and why is it important?
+A repository-based system is a centralized place where source code and related resources are stored and managed. It helps in version control, collaboration, and tracking changes effectively during software development.
+
+2. What did you learn from resolving the plugin conflict?
+I learned the importance of resolving merge conflicts in collaborative development. It taught me how changes made by different people in the same file can be merged manually using Git.
+
+3. How can dependency conflicts impact system stability?
+Dependency conflicts can lead to broken builds, unexpected behavior, or security issues. Using the correct versions ensures the app runs smoothly and is compatible with its dependencies.
